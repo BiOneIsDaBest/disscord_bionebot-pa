@@ -34,10 +34,6 @@ pip install -r requirements.txt
 ```
 
 ### 3. Cấu Hình `.env`
-Tạo file `.env` và đặt vào token bot:
-```env
-TOKEN=YOUR_DISCORD_BOT_TOKEN
-```
 
 ### 4. Chạy Bot
 ```bash
