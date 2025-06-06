@@ -1,8 +1,8 @@
 # disscord_bionebot-pa
 
-# BiOneBot - Hệ Thống Chấm Công Tự Động Cho Học Viên
+# BiOneBot - Hệ Thống Chấm Công Tự Động Cho HVQG
 
-BiOneBot là một hệ thống chấm công tự động được thiết kế dành riêng cho các đơn vị đào tạo trong môi trường Roleplay (như học viện cảnh sát, bảo an, nhân sự...). Bot được xây dựng bằng Python và tích hợp với Discord để theo dõi giờ làm việc, thống kê, và báo cáo minh bạch, rõ ràng.
+BiOneBot là một hệ thống chấm công tự động được thiết kế dành riêng cho các đơn vị đào tạo trong môi trường Roleplay ( server GTA5VN - S1 Los Santos ) (như học viện cảnh sát, bảo an, nhân sự...). Bot được xây dựng bằng Python và tích hợp với Discord để theo dõi giờ làm việc, thống kê, và báo cáo minh bạch, rõ ràng.
 
 ---
 
