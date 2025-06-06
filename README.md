@@ -48,11 +48,6 @@ python main.py
 
 ---
 
-## 📷 Hình Ảnh (Optional)
-*(Bạn có thể thêm screenshot demo bot tại đây nếu muốn)*
-
----
-
 ## 📄 Bản Quyền
 
 **Bản quyền thuộc BiOneIsDaBest**  
